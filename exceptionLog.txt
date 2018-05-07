@@ -1,0 +1,15 @@
+EXCEPTION CAUGHT: 2018-04-04 21:20:37 SQLSTATE[HY000] [1049] Unknown database 'Library_v5'
+#0 /Applications/XAMPP/xamppfiles/htdocs/Library/CustomerPages/SearchResult.php(59): PDO->__construct('mysql:host=loca...', 'LibraryAdmin', 'booksrock', NULL)
+#1 {main}
+EXCEPTION CAUGHT: 2018-04-04 21:23:06 Value must be 1 or below
+#0 /Applications/XAMPP/xamppfiles/htdocs/Library/Functions/errorLog.php(16): checkNum(4)
+#1 {main}
+EXCEPTION CAUGHT: 2018-04-04 21:24:11 SQLSTATE[HY000] [1049] Unknown database 'Library_v5'
+#0 /Applications/XAMPP/xamppfiles/htdocs/Library/CustomerPages/SearchResult.php(59): PDO->__construct('mysql:host=loca...', 'LibraryAdmin', 'booksrock', NULL)
+#1 {main}
+EXCEPTION CAUGHT: 2018-04-16 22:03:39 SQLSTATE[HY000] [1049] Unknown database 'Library_v5'
+#0 /Applications/XAMPP/xamppfiles/htdocs/Library/CustomerPages/SearchResult.php(59): PDO->__construct('mysql:host=loca...', 'LibraryAdmin', 'booksrock', NULL)
+#1 {main}
+EXCEPTION CAUGHT: 2018-04-16 23:21:29 SQLSTATE[HY000] [1049] Unknown database 'Library_v5'
+#0 /Applications/XAMPP/xamppfiles/htdocs/Library/CustomerPages/SearchResult.php(59): PDO->__construct('mysql:host=loca...', 'LibraryAdmin', 'booksrock', NULL)
+#1 {main}

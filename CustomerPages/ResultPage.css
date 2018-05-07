@@ -1,0 +1,27 @@
+.results {
+   margin:30px;
+}
+
+.resultsTable {
+    border-collapse: collapse;
+    width: 60%;
+    margin: 30px;
+    float: left;
+}
+.resultsTable th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.resultsTable tr:hover {
+    background-color:#5F9EA0;
+}
+
+.floatRight {
+    float: right;
+    padding: 50px;
+}
+
+.floatLeft {
+    padding: 5px 20px 0px;
+}
